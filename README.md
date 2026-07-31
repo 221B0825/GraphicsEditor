@@ -1,9 +1,9 @@
-# UnivGraphicsEditor
+# GraphicsEditor
 
 Using Java in 2021  
 📌: Paint Program (Java Swing 기반 그래픽 에디터)
 
-[![License](https://img.shields.io/github/license/221b0825/UnivGraphicsEditor)](LICENSE)  
+[![License](https://img.shields.io/github/license/221b0825/GraphicsEditor)](LICENSE)  
 [![Last Commit](https://img.shields.io/github/last-commit/221b0825/GraphicsEditor)](https://github.com/221b0825/UnivGraphicsEditor/commits/main)
 
 ## 🚀 Introduction
